@@ -1,0 +1,9 @@
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\bin\Debug\CRC Master.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\bin\Debug\CRC Master.exe
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\bin\Debug\CRC Master.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC Master.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC_Master.Form1.resources
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC_Master.Properties.Resources.resources
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC Master.csproj.GenerateResource.Cache
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC Master.exe
+c:\users\ivo\documents\visual studio 2015\Projects\CRC Master\CRC Master\obj\Debug\CRC Master.pdb
